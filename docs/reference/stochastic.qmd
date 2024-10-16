@@ -1,0 +1,19 @@
+# stochastic { #stochastic }
+
+``
+
+
+
+## Functions
+
+| Name | Description |
+| --- | --- |
+| [generate_random](#stochastic.generate_random) | Generates a random number (again) |
+
+### generate_random { #stochastic.generate_random }
+
+```python
+generate_random()
+```
+
+Generates a random number (again)

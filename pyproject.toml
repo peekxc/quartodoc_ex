@@ -1,0 +1,11 @@
+[build-system]
+build-backend = 'mesonpy'
+requires = ['meson-python']
+
+[project]
+name = 'my_package'
+version = '0.0.1'
+description = 'Our example package using meson-python!'
+requires-python = '>=3.8'
+license = { text = "Apache License" }
+authors = [{ name = 'Matt Piekenbrock', email = 'matt.piekenbrock@gmail.com' }]

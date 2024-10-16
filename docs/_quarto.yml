@@ -1,0 +1,10 @@
+project:
+  type: website
+
+quartodoc:
+  package: null
+  source_dir: ../src/my_package
+  sections:
+    - title: API Reference
+      contents:
+        - stochastic
